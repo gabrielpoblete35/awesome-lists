@@ -1,0 +1,31 @@
+h1 {
+    color: red;
+    font-size: 24px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.odd {
+    color: blue;
+}
+
+.even {
+    color: green;
+    text-transform: uppercase;
+}
+
+#hed1 {
+    color: black;
+}
+
+figcaption {
+    color: gray;
+}
+
+p {
+    font-family: "Georgia", serif;
+}
+
+ul {
+    color: blue;
+}
